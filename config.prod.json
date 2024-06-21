@@ -1,0 +1,11 @@
+{
+    "telegram": {
+        "developer_id": 1406155029
+    },
+    "logging": {
+        "level": "DEBUG"
+    },
+    "app": {
+        "name": "CoolEnglishTeacherBot"
+    }
+}
